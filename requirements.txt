@@ -7,7 +7,6 @@ dj-stripe==2.7.3
 Django==3.2
 django-cors-headers==3.13.0
 djangorestframework==3.14.0
-drf-stripe-subscription==1.1.11
 drf-yasg==1.21.4
 idna==3.4
 inflection==0.5.1
